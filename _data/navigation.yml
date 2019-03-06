@@ -1,0 +1,20 @@
+# main links links
+main:
+  - title: "На главную"
+    url: http://customfw.xyz
+  - title: "Switch"
+    url: http://switch.customfw.xyz
+  - title: "3DS"
+    url: http://3ds.customfw.xyz
+  - title: "DSi"
+    url: http://dsi.customfw.xyz
+  - title: "Wii U"
+    url: http://wiiu.customfw.xyz
+  - title: "PS4"
+    url: http://ps4.customfw.xyz
+  - title: "Новости"
+    url: /news
+  - title: "Пожертвования"
+    url: /donations
+  - title: "Связаться с нами"
+    url: /contacts
